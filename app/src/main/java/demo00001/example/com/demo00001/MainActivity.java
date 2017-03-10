@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 /*        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 
+
         toolbar.setTitle("这里是Title");
         toolbar.setSubtitle("这里是子标题");
         toolbar.setLogo(R.mipmap.ic_launcher);
